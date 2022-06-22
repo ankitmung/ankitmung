@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Ankit](https://github.com/ankitmung), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+Hi, I'm [Ankit](https://github.com/ankitmung), A full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 <!-- 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
  -->
