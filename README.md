@@ -4,11 +4,11 @@
   <img align="left" alt="Nitesh Goshwami | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/ankit-mungole-a0a89821b/">
-  <img align="left" alt="Nitesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
  
-![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
+![](https://visitor-badge.glitch.me/badge?page_id=)
 
 <br />
 
